@@ -12,7 +12,9 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://bhargavap.vercel.app/">🌐 Portfolio</a>
+  <a href="https://bhargavap.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
