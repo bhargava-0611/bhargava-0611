@@ -67,6 +67,7 @@ Through my internships and projects, I've gained hands-on experience with **Pyth
 ### AI & Development
 <table>
   <tr>
+    <td align="center" width="110"><img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="50" height="50" alt="Generative AI"/><br/><sub><b>Generative AI</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub></td>
   </tr>
 </table>
