@@ -39,104 +39,55 @@ Through my internships and projects, I've gained hands-on experience with **Pyth
 
 ## Data & Technical Skills
 
+<div align="center">
+
 ### Data Analytics
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/><br/>
-      <sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/><br/>
-      <sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/><br/>
-      <sub><b>Matplotlib</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="45" height="45" alt="Seaborn"/><br/>
-      <sub><b>Seaborn</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-Learn"/><br/>
-      <sub><b>Scikit-Learn</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI"/><br/>
-      <sub><b>Power BI</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/tableau/E97627" width="45" height="45" alt="Tableau"/><br/>
-      <sub><b>Tableau</b></sub>
-    </td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/><br/><sub><b>Matplotlib</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="50" height="50" alt="Seaborn"/><br/><sub><b>Seaborn</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn"/><br/><sub><b>Scikit-Learn</b></sub></td>
+    <td align="center" width="110"><img src="https://img.icons8.com/color/96/power-bi.png" width="50" height="50" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
+    <td align="center" width="110"><img src="https://img.icons8.com/color/96/tableau-software.png" width="50" height="50" alt="Tableau"/><br/><sub><b>Tableau</b></sub></td>
   </tr>
 </table>
 
 ### Databases
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/mysql/4DA3D4" width="50" height="50" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
   </tr>
 </table>
 
 ### AI & Development
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/><br/>
-      <sub><b>FastAPI</b></sub>
-    </td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub></td>
   </tr>
 </table>
 
 ### Tools
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/><br/>
-      <sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/><br/>
-      <sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45" height="45" alt="AWS IoT Core"/><br/>
-      <sub><b>AWS IoT Core</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="Google Cloud"/><br/>
-      <sub><b>Google Cloud</b></sub>
-    </td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/github/white" width="50" height="50" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
+    <td align="center" width="110"><img src="https://img.icons8.com/color/96/amazon-web-services.png" width="50" height="50" alt="AWS IoT Core"/><br/><sub><b>AWS IoT Core</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud"/><br/><sub><b>Google Cloud</b></sub></td>
   </tr>
 </table>
 
----
+</div>
 
+    
+---
+   
 ## 📊 GitHub Stats
 
 <p align="center">
